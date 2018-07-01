@@ -1,0 +1,36 @@
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\bin\Debug\maps-sy.exe.config
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\bin\Debug\maps-sy.exe
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\bin\Debug\maps-sy.pdb
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\maps_sy.LatakiaMap.resources
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\maps_sy.Properties.Resources.resources
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\LatakiaMap.csproj.GenerateResource.Cache
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\maps-sy.exe
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\maps-sy.pdb
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\bin\Debug\LatakiaMap.exe.config
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\bin\Debug\LatakiaMap.exe.config
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\bin\Debug\LatakiaMap.exe
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\bin\Debug\LatakiaMap.pdb
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\obj\x86\Debug\maps_sy.LatakiaMap.resources
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\obj\x86\Debug\LatakiaMap.csproj.GenerateResource.Cache
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\obj\x86\Debug\LatakiaMap.exe
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\obj\x86\Debug\LatakiaMap.pdb
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\obj\x86\Debug\LatakiaMap.csprojResolveAssemblyReference.cache
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\LatakiaMap\obj\x86\Debug\LatakiaMap.Properties.Resources.resources
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\bin\Debug\LatakiaMap.exe.config
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\obj\x86\Debug\LatakiaMap.exe
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\obj\x86\Debug\LatakiaMap.pdb
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\bin\Debug\LatakiaMap.exe
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\bin\Debug\LatakiaMap.pdb
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\obj\x86\Debug\LatakiaMap.csprojResolveAssemblyReference.cache
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\obj\x86\Debug\maps_sy.LatakiaMap.resources
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\obj\x86\Debug\LatakiaMap.Properties.Resources.resources
+C:\Users\aa\Desktop\مشروع5\LatakiaMap\obj\x86\Debug\LatakiaMap.csproj.GenerateResource.Cache
+E:\New folder\boushra\New folder\LatakiaMap\bin\Debug\LatakiaMap.exe.config
+E:\New folder\boushra\New folder\LatakiaMap\obj\x86\Debug\LatakiaMap.exe
+E:\New folder\boushra\New folder\LatakiaMap\obj\x86\Debug\LatakiaMap.pdb
+E:\New folder\boushra\New folder\LatakiaMap\bin\Debug\LatakiaMap.exe
+E:\New folder\boushra\New folder\LatakiaMap\bin\Debug\LatakiaMap.pdb
+E:\New folder\boushra\New folder\LatakiaMap\obj\x86\Debug\LatakiaMap.csprojResolveAssemblyReference.cache
+E:\New folder\boushra\New folder\LatakiaMap\obj\x86\Debug\maps_sy.LatakiaMap.resources
+E:\New folder\boushra\New folder\LatakiaMap\obj\x86\Debug\LatakiaMap.Properties.Resources.resources
+E:\New folder\boushra\New folder\LatakiaMap\obj\x86\Debug\LatakiaMap.csproj.GenerateResource.Cache

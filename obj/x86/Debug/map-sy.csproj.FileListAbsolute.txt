@@ -1,0 +1,4 @@
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\map-sy.csprojResolveAssemblyReference.cache
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\maps-sy.exe
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\obj\x86\Debug\maps-sy.pdb
+C:\Users\Sam Sul\Documents\Visual Studio 2010\Projects\maps-sy\maps-sy\bin\Debug\Latakia-Map.exe.config
